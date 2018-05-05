@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+/* @import '~bootstrap/dist/css/bootstrap.min.css'; */
+
+
+/* * {
+    margin: 0px;
+    padding: 0px;
+} */
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
